@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "programming-jig")(type "KiCad")(uri "${KIPRJMOD}/../../lib/programming-jig.pretty")(options "")(descr ""))
+)
